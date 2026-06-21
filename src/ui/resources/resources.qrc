@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- 图标资源（占位，后续替换为实际图标） -->
+        <!-- <file>icons/app_icon.png</file> -->
+        <!-- <file>icons/tray_icon.png</file> -->
+
+        <!-- 主题配置 -->
+        <!-- <file>themes/default.json</file> -->
+        <!-- <file>themes/dark.json</file> -->
+    </qresource>
+</RCC>

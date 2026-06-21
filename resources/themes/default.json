@@ -1,0 +1,30 @@
+{
+    "name": "默认浅色主题",
+    "version": "1.0",
+    "colors": {
+        "background": "#FFFFFF",
+        "backgroundAlternate": "#F5F5F5",
+        "text": "#333333",
+        "textSecondary": "#666666",
+        "accent": "#0078D4",
+        "accentHover": "#106EBE",
+        "border": "#E0E0E0",
+        "highlight": "#E5F3FF",
+        "highlightText": "#0078D4"
+    },
+    "candidateWindow": {
+        "backgroundOpacity": 0.95,
+        "borderRadius": 8,
+        "shadow": true,
+        "itemHeight": 32,
+        "itemPadding": 12,
+        "indexColor": "#999999",
+        "firstItemHighlight": true
+    },
+    "fonts": {
+        "candidateFont": "Microsoft YaHei",
+        "candidateFontSize": 14,
+        "pinyinFont": "Microsoft YaHei",
+        "pinyinFontSize": 12
+    }
+}
